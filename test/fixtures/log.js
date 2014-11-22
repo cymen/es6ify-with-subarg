@@ -1,0 +1,9 @@
+"use strict";
+var log = (function(msg) {
+  return console.log(msg);
+});
+module.exports = log;
+
+//# sourceMappingURL=<compileOutput>
+
+//@ sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9jdmlnL2Rldi90ZWVzcHJpbmcvZXM2aWZ5L3Rlc3QvZml4dHVyZXMvbG9nLmpzLmVzNiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtBQUFBLEFBQUksRUFBQSxDQUFBLEdBQUUsSUFBSSxTQUFBLEdBQUU7T0FBSyxDQUFBLE9BQU0sSUFBSSxBQUFDLENBQUMsR0FBRSxDQUFDO0FBQUEsQ0FBQSxDQUFDO0FBRWpDLEtBQUssUUFBUSxFQUFJLElBQUUsQ0FBQztBQUNwQiIsImZpbGUiOiIvVXNlcnMvY3ZpZy9kZXYvdGVlc3ByaW5nL2VzNmlmeS90ZXN0L2ZpeHR1cmVzL2xvZy5qcy5lczYuZXM2Iiwic291cmNlc0NvbnRlbnQiOlsidmFyIGxvZyA9IG1zZyA9PiBjb25zb2xlLmxvZyhtc2cpO1xuXG5tb2R1bGUuZXhwb3J0cyA9IGxvZztcbiJdfQ==
