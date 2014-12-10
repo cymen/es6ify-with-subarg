@@ -1,6 +1,6 @@
-# es6ify [![build status](https://secure.travis-ci.org/thlorenz/es6ify.png?branch=master)](http://travis-ci.org/thlorenz/es6ify)
+# es6ify [![build status](https://circleci.com/gh/cymen/es6ify-with-subarg.png?branch=master)](https://circleci.com/gh/cymen/es6ify-with-subarg)
 
-[![NPM](https://nodei.co/npm/es6ify.png?downloads=true&stars=true)](https://nodei.co/npm/es6ify/)
+[![NPM](https://nodei.co/npm/es6ify-with-subarg.png?downloads=true&stars=true)](https://nodei.co/npm/es6ify-with-subarg/)
 
 [browserify](https://github.com/substack/node-browserify) `>=v2` transform to compile JavaScript.next (ES6) to
 JavaScript.current (ES5) on the fly.
