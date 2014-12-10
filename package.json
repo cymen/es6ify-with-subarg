@@ -1,5 +1,5 @@
 {
-  "name": "es6ify",
+  "name": "es6ify-with-subarg",
   "version": "1.5.1",
   "description": "browserify v2 transform to compile JavaScript.next (ES6) to JavaScript.current (ES5) on the fly.",
   "main": "es6ify.js",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thlorenz/es6ify.git"
+    "url": "git://github.com/cymen/es6ify-with-subarg.git"
   },
-  "homepage": "https://github.com/thlorenz/es6ify",
+  "homepage": "https://github.com/cymen/es6ify-with-subarg",
   "dependencies": {
     "source-map": "~0.1.29",
     "through": "~2.2.7",
@@ -36,9 +36,9 @@
     "transform"
   ],
   "author": {
-    "name": "Thorsten Lorenz",
-    "email": "thlorenz@gmx.de",
-    "url": "http://thlorenz.com"
+    "name": "Cymen Vig",
+    "email": "cymenvig@gmail.com",
+    "url": "http://cymen.org"
   },
   "license": "MIT",
   "engine": {
