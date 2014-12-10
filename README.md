@@ -1,4 +1,4 @@
-# es6ify [![build status](https://secure.travis-ci.org/thlorenz/es6ify.png?branch=master)](http://travis-ci.org/thlorenz/es6ify)
+# es6ify [![build status](https://secure.travis-ci.org/cymen/es6ify-with-subarg.png?branch=master)](http://travis-ci.org/cymen/es6ify-with-subarg)
 
 [![NPM](https://nodei.co/npm/es6ify.png?downloads=true&stars=true)](https://nodei.co/npm/es6ify/)
 
